@@ -1,3 +1,4 @@
 # Gene_Course
-hello!
-print (hello)
+# Hello
+# Code:
+Trying to Code
